@@ -24,7 +24,7 @@ Para consolidar el material desarrollado se creó un repositorio de Github (disp
 
 En este sentido, debe entenderse que los diferentes archivos y programas desarrollados (en Bash, Python y Postgres) se encuentran dentro de este directorio de trabajo, con lo cual, para seguir el desarrollo realizado para este proyecto se debe clonar el repositorio en cuestión para ejecutar el código implementado, lo cual se realiza con la siguiente instrucción:
 ```
-git clone https://github.com/lauragmz/lauragmz-programming-for-data-science-2019-imdb
+git clone https://github.com/czammar/czammar-programming-for-data-science-2019-imdb
 ```
 
 Es así que a continuación se expondrá el enfoque seguido para el desarrollo del proyecto en cuestión.
