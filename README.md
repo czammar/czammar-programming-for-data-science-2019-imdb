@@ -20,7 +20,7 @@
 
 El presente documento expone las consideraciones realizadas para el proyecto final del Seminario de Programación sobre la Internet Movie Database (IMDB), considerando las instrucciones que permiten la creación de una base de datos asociada a ésta, su limpieza y conformación de un esquema semantic a través de PostgreSQL (Postgres).
 
-Para consolidar el material desarrollado se creó un repositorio de Github (disponible a través de la dirección electrónica https://github.com/lauragmz/lauragmz-programming-for-data-science-2019-imdb) que sigue la estructura de carpetas sugerida en el curso para el desarrollo de un proyecto.
+Para consolidar el material desarrollado se creó un repositorio de Github (disponible a través de la dirección electrónica https://github.com/czammar/czammar-programming-for-data-science-2019-imdb) que sigue la estructura de carpetas sugerida en el curso para el desarrollo de un proyecto.
 
 En este sentido, debe entenderse que los diferentes archivos y programas desarrollados (en Bash, Python y Postgres) se encuentran dentro de este directorio de trabajo, con lo cual, para seguir el desarrollo realizado para este proyecto se debe clonar el repositorio en cuestión para ejecutar el código implementado, lo cual se realiza con la siguiente instrucción:
 ```
