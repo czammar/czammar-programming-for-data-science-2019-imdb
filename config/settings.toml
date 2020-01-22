@@ -1,0 +1,4 @@
+[default]
+dburl = 'postgresql://service=bd_imdb'
+pgconnstring = 'user=rol_imdb dbname=bd_imdb port=5432 host=0.0.0.0 password=1234'
+berkadir = '/data_imdb'
